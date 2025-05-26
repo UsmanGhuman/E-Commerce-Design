@@ -35,7 +35,7 @@ export default function Daily() {
                         <img src={image1} alt="image" className='w-[130px] h-[100px] mt-6 mb-6'/>
                     </div>
                     <div>
-                        <p className='text-xs'>Daily Essentials</p>
+                        <p className='text-xs text-center'>Daily Essentials</p>
                         <p className='font-bold'>Up tp 50% OFF</p>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ export default function Daily() {
                         <img src={image2} alt="image" className='w-[130px] h-[100px] mt-6 mb-6'/>
                     </div>
                     <div>
-                        <p className='text-xs'>Daily Essentials</p>
+                        <p className='text-xs text-center'>Daily Essentials</p>
                         <p className='font-bold'>Up tp 50% OFF</p>
                     </div>
                 </div>
@@ -55,7 +55,7 @@ export default function Daily() {
                         <img src={image3} alt="image" className='w-[130px] h-[100px] mt-6 mb-6'/>
                     </div>
                     <div>
-                        <p className='text-xs'>Daily Essentials</p>
+                        <p className='text-xs text-center'>Daily Essentials</p>
                         <p className='font-bold'>Up tp 50% OFF</p>
                     </div>
                 </div>
@@ -65,7 +65,7 @@ export default function Daily() {
                         <img src={image4} alt="image" className='w-[130px] h-[100px] mt-6 mb-6'/>
                     </div>
                     <div>
-                        <p className='text-xs'>Daily Essentials</p>
+                        <p className='text-xs text-center'>Daily Essentials</p>
                         <p className='font-bold'>Up tp 50% OFF</p>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ export default function Daily() {
                         <img src={image5} alt="image" className='w-[130px] h-[100px] mt-6 mb-6'/>
                     </div>
                     <div>
-                        <p className='text-xs'>Daily Essentials</p>
+                        <p className='text-xs text-center'>Daily Essentials</p>
                         <p className='font-bold'>Up tp 50% OFF</p>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ export default function Daily() {
                         <img src={image6} alt="image" className='w-[130px] h-[100px] mt-6 mb-6'/>
                     </div>
                     <div>
-                        <p className='text-xs'>Daily Essentials</p>
+                        <p className='text-xs text-center'>Daily Essentials</p>
                         <p className='font-bold'>Up tp 50% OFF</p>
                     </div>
                 </div>

@@ -48,7 +48,7 @@ export default function Rounded() {
                         </div>
                         <div>
                             <p className='pl-3'>
-                                Mobile
+                                Cosmetics
                             </p>
                         </div>
                     </div>
@@ -59,7 +59,7 @@ export default function Rounded() {
                         </div>
                         <div>
                             <p className='pl-3'>
-                                Mobile
+                                Electronics
                             </p>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ export default function Rounded() {
                         </div>
                         <div>
                             <p className='pl-3'>
-                                Mobile
+                                Furniture
                             </p>
                         </div>
                     </div>
@@ -81,7 +81,7 @@ export default function Rounded() {
                         </div>
                         <div>
                             <p className='pl-3'>
-                                Mobile
+                                Watches
                             </p>
                         </div>
                     </div>
@@ -92,7 +92,7 @@ export default function Rounded() {
                         </div>
                         <div>
                             <p className='pl-3'>
-                                Mobile
+                                Decor
                             </p>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ export default function Rounded() {
                         </div>
                         <div>
                             <p className='pl-3'>
-                                Mobile
+                                Accessories
                             </p>
                         </div>
                     </div>
